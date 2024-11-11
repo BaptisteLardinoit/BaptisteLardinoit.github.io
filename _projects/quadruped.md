@@ -2,7 +2,7 @@
 layout: project
 title: Quadruped Robot
 image: /assets/images/quadruped_img1.jpg
-description: A rover that navigates terrain autonomously.
+description: A four legged walking robot.
 date: 2023-10-01
 ---
 
