@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
 title: My Robotics Projects
 description: A showcase of my robotics projects.
-menu:
-  - text: Home
-    link: /
-  - text: About
-    link: /about
+
+collections:
+  projects:
+    output: true
