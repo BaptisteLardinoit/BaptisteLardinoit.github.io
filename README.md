@@ -1,5 +1,4 @@
 # Baptiste Lardinoit
-
 ### Education 
 Ecole Centrale de Nantes
 
