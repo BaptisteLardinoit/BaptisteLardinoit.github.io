@@ -1,4 +1,4 @@
-# BaptisteLardinoit.github.io
+# Baptiste Lardinoit
 
 ### Education 
 Ecole Centrale de Nantes
