@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Quadruped Robot
-image: /assets/images/quadruped_img1.jpg
+image: /assets/images/quadruped_img2.jpg
 description: A four legged walking robot.
 date: 2023-10-01
 ---
@@ -12,7 +12,7 @@ date: 2023-10-01
 
 {{ page.description }}
 
-Detailed content about the Autonomous Rover project goes here. Include information about its features, development process, and any interesting challenges you overcame.
+Detailed content about the Quadruped Robot project goes here. Include information about its features, development process, and any interesting challenges you overcame.
 
 ## Video
 
