@@ -13,7 +13,6 @@ layout: default
   </div>
 </header>
 
-## Projects 
 <div class="project-grid">
 
 {% for project in site.projects %}
