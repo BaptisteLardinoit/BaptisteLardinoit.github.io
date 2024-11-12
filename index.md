@@ -13,11 +13,6 @@ layout: default
   </div>
 </header>
 
-  
-# Welcome to My Robotics Projects
-
-Here you'll find images and videos of my different projects.
-
 ## Projects 
 <div class="project-grid">
 
