@@ -3,6 +3,17 @@ layout: default
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
 
+<header class="main-header">
+  <div class="header-content">
+    <img src="/assets/images/your-profile-picture.jpg" alt="Profile Picture" class="profile-pic">
+    <div class="intro-text">
+      <h1>Your Name</h1>
+      <p>Welcome to my robotics projects portfolio! Here, you'll find various images, videos, and descriptions showcasing the robotics projects I've worked on. From 3D modeling to autonomous navigation, I’m excited to share my work with you.</p>
+    </div>
+  </div>
+</header>
+
+  
 # Welcome to My Robotics Projects
 
 Here you'll find images and videos of my different projects.
