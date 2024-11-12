@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Quadruped Robot
-image: /assets/images/quadruped_img2.jpg
-description: A four legged walking robot.
+title: Gyroscopic Precession Robot
+image: /assets/images/TIPE render 5.png
+description: A robot to avoid car crashes.
 date: 2023-10-01
 ---
 
