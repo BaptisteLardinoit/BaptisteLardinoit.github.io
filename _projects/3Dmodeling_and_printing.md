@@ -8,7 +8,7 @@ date: 2024-10-01
 
 # {{ page.title }}
 
-![{{ page.title }} Image]({{ page.image }})
+<!-- ![{{ page.title }} Image]({{ page.image }}) -->
 
 {{ page.description }}
 
