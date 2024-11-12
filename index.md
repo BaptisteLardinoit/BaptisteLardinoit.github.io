@@ -14,8 +14,10 @@ Here you'll find images and videos of my different projects.
   <div class="project-card">
     <a href="{{ project.url | relative_url }}">
       <img src="{{ project.image }}" alt="{{ project.title }}">
-      <h3>{{ project.title }}</h3>
-      <p>{{ project.description }}</p>
+      <div class="overlay">
+        <h3>{{ project.title }}</h3>
+        <p>{{ project.description }}</p>
+      </div>
     </a>
   </div>
 {% endfor %}
