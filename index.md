@@ -14,11 +14,7 @@ layout: default
 </header>
 
 <div class="content-container">
-  # Welcome to My Robotics Projects
 
-  Here you'll find images and videos of my different projects.
-
-  ## Projects 
   <div class="project-grid">
     {% for project in site.projects %}
       <div class="project-card">
