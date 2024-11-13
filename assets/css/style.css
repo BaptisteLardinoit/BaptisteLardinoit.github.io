@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .content-container {
   width: 90%; /* Sets the width to 90% of the viewport */
-  max-width: 900px; /* Controls the width of the main content area */
+  /*max-width: 900px; /* Controls the width of the main content area */
   margin: 0 auto; /* Centers the content container */
   padding: 20px; /* Adds space around the content */
 }
