@@ -4,7 +4,7 @@ layout: default
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <div class="content-container">
-  <header class="main-header
+  <header class="main-header>
     <div class="header-content">
       <img src="/assets/images/422765839_695656782722177_1716881690510392068_n.jpg" alt="Profile Picture" class="profile-pic">
       <div class="intro-text">
